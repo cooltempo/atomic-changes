@@ -1,0 +1,7 @@
+{
+  "rodec-one": {
+    "stage": "team",
+    "until": null,
+    "notes": "Matched to the hardware unit: test it beside a Rodec ONE. Mac only for now; Windows to follow. Expect rough edges."
+  }
+}
