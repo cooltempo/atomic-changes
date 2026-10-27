@@ -2,6 +2,6 @@
   "rodec-one": {
     "stage": "team",
     "until": null,
-    "notes": "Matched to the hardware unit: test it beside a Rodec ONE. Mac only for now; Windows to follow. Expect rough edges."
+    "notes": "Matched to the hardware unit: test it beside a Rodec ONE. No installer yet: it says Coming soon until the first signed build is in Moonbase. That build is AU, VST3 and the app on Mac; AAX and Windows follow. Expect rough edges."
   }
 }
