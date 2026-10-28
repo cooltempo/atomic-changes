@@ -2,6 +2,6 @@
   "rodec-one": {
     "stage": "team",
     "until": null,
-    "notes": "Matched to the hardware unit: test it beside a Rodec ONE. Mac only for now: AU and VST3. AAX and Windows follow. Expect rough edges."
+    "notes": "Matched to the hardware unit: test it beside a Rodec ONE. Mac AU, VST3 and AAX; Windows VST3 and AAX. Expect rough edges."
   }
 }
