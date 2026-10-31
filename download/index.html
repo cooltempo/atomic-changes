@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Download Atomic Manager</title>
+<!-- The one link to hand out (Mo, 31 Oct): each button is GitHub's "latest" link,
+     so it always downloads the newest Manager. Copied to the site by publish.sh. -->
+<style>
+:root{--bg:#0e0f12;--text:#e6e8ec;--dim:#8a909b;--rule:#2a2e35;--accent:#fa5309;color-scheme:dark}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 Lato,system-ui,sans-serif}
+main{max-width:520px;margin:0 auto;padding:56px 16px}
+h1{font-weight:300;font-size:28px;margin:0 0 6px}
+p{color:var(--dim);margin:0 0 28px}
+a.btn{display:block;text-decoration:none;color:var(--text);border:1px solid var(--rule);border-radius:8px;padding:14px 16px;margin-bottom:10px}
+a.btn b{display:block;font-weight:700}
+a.btn span{color:var(--dim);font-size:13px}
+a.btn.here{border-color:var(--accent)}
+small{display:block;color:var(--dim);margin-top:24px}
+</style>
+</head>
+<body><main>
+<h1>Atomic Manager</h1>
+<p>Installs, activates and updates every Atomic Audio product. Always the newest version.</p>
+<a class="btn" id="arm" href="https://github.com/cooltempo/atomic-manager-releases/releases/latest/download/Atomic-Manager-Mac-Apple-Silicon.pkg"><b>Mac, Apple silicon</b><span>M1 and later. macOS asks for your password once, in its own Installer.</span></a>
+<a class="btn" id="intel" href="https://github.com/cooltempo/atomic-manager-releases/releases/latest/download/Atomic-Manager-Mac-Intel.pkg"><b>Mac, Intel</b><span>Macs with an Intel processor.</span></a>
+<a class="btn" id="win" href="https://github.com/cooltempo/atomic-manager-releases/releases/latest/download/Atomic-Manager-Windows.exe"><b>Windows</b><span>Windows 10 and 11, 64-bit.</span></a>
+<small>Not sure which Mac you have? Open the Apple menu, then About This Mac. If the chip is an Apple M1 or later, choose Apple silicon.</small>
+<script>
+  const ua = navigator.userAgent;
+  const id = /Windows/.test(ua) ? 'win' : /Mac/.test(ua) ? 'arm' : null;
+  if (id) document.getElementById(id).classList.add('here');
+</script>
+</main></body>
+</html>
