@@ -1,7 +1,12 @@
 {
   "rodec-one": {
-    "stage": "team",
+    "stage": "partner",
     "until": null,
     "notes": "Matched to the hardware unit: test it beside a Rodec ONE. Mac AU, VST3 and AAX; Windows VST3 and AAX. Expect rough edges."
+  },
+  "deadline-pro-team": {
+    "stage": "team",
+    "until": null,
+    "notes": "The same plug-in as Deadline Pro: installing this replaces the one on this computer. The card above can roll it back."
   }
 }

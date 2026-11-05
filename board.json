@@ -1,5 +1,5 @@
 {
-  "stamp": "c83694ca6d8844fc",
+  "stamp": "5a12530810be2577",
   "rows": [
     {
       "id": "deadline-pro",
@@ -91,7 +91,7 @@
       "name": "Rodec ONE",
       "version": "0.1.5",
       "published": "2026-10-29T11:43:44.4404931Z",
-      "test": "team",
+      "test": "partner",
       "mac": {
         "file": "Rodec ONE 0.1.5 (AU VST3 AAX).pkg",
         "formats": [
@@ -107,6 +107,23 @@
           "VST3",
           "AAX"
         ]
+      },
+      "windowsMissing": false
+    },
+    {
+      "id": "deadline-pro-team",
+      "name": "Deadline Pro (Team)",
+      "version": "0.9.12",
+      "published": "2026-11-05T11:26:53.566325Z",
+      "test": "team",
+      "mac": {
+        "file": "Deadline Pro 0.9.12.pkg",
+        "formats": null
+      },
+      "macMissing": false,
+      "windows": {
+        "file": "Deadline Pro 0.9.12 Windows Setup.exe",
+        "formats": null
       },
       "windowsMissing": false
     }
