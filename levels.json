@@ -12,6 +12,6 @@
   "blackbox-control-test": {
     "stage": "team",
     "until": null,
-    "notes": "Early test of the HG-Q controller: plug the HG-Q in by USB and open Control (Test) under Black Box Digital. Mac only for now."
+    "notes": "Early test of the HG-Q controller: plug the HG-Q in by USB and open Control (Test) under Black Box Digital, or the Control (Test) app."
   }
 }
