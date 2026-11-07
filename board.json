@@ -1,5 +1,5 @@
 {
-  "stamp": "9fd800353b9f2170",
+  "stamp": "96cf8156a34c943a",
   "rows": [
     {
       "id": "deadline-pro",
@@ -130,11 +130,11 @@
     {
       "id": "blackbox-control-test",
       "name": "Black Box Control (Test)",
-      "version": "0.0.4",
-      "published": "2026-11-07T17:34:28.681631Z",
+      "version": "0.0.5",
+      "published": "2026-11-07T19:59:20.6167381Z",
       "test": "team",
       "mac": {
-        "file": "Black Box Digital Control Test 0.0.4 (AU VST3 AAX App).pkg",
+        "file": "Black Box Digital Control Test 0.0.5 (AU VST3 AAX App).pkg",
         "formats": [
           "AU",
           "VST3",
