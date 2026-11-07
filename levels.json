@@ -6,7 +6,7 @@
   },
   "deadline-pro-team": {
     "stage": "team",
-    "until": null,
+    "until": "2026-11-06",
     "notes": "The same plug-in as Deadline Pro: installing this replaces the one on this computer. The card above can roll it back."
   },
   "blackbox-control-test": {
