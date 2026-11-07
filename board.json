@@ -1,19 +1,19 @@
 {
-  "stamp": "2f1abaea273277a4",
+  "stamp": "0c7388cba00c2d6e",
   "rows": [
     {
       "id": "deadline-pro",
       "name": "Deadline Pro",
-      "version": "0.9.8",
-      "published": "2026-11-02T23:49:20.0725728Z",
+      "version": "0.9.18",
+      "published": "2026-11-07T02:15:20.5591584Z",
       "test": null,
       "mac": {
-        "file": "Deadline Pro 0.9.8.pkg",
+        "file": "Deadline Pro 0.9.18.pkg",
         "formats": null
       },
       "macMissing": false,
       "windows": {
-        "file": "Deadline Pro 0.9.8 Windows Setup.exe",
+        "file": "Deadline Pro 0.9.18 Windows Setup.exe",
         "formats": null
       },
       "windowsMissing": false
