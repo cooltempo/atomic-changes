@@ -1,5 +1,5 @@
 {
-  "stamp": "5a12530810be2577",
+  "stamp": "4796d5cb1bd32eda",
   "rows": [
     {
       "id": "deadline-pro",
@@ -125,6 +125,24 @@
         "file": "Deadline Pro 0.9.12 Windows Setup.exe",
         "formats": null
       },
+      "windowsMissing": false
+    },
+    {
+      "id": "blackbox-control-test",
+      "name": "Black Box Digital Control (Test)",
+      "version": "0.0.1",
+      "published": "2026-11-06T22:57:35.6115065Z",
+      "test": "team",
+      "mac": {
+        "file": "Black Box Digital Control Test 0.0.1 (AU VST3 AAX).pkg",
+        "formats": [
+          "AU",
+          "VST3",
+          "AAX"
+        ]
+      },
+      "macMissing": false,
+      "windows": null,
       "windowsMissing": false
     }
   ]

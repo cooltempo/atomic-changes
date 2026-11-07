@@ -8,5 +8,10 @@
     "stage": "team",
     "until": null,
     "notes": "The same plug-in as Deadline Pro: installing this replaces the one on this computer. The card above can roll it back."
+  },
+  "blackbox-control-test": {
+    "stage": "team",
+    "until": null,
+    "notes": "Early test of the HG-Q controller: plug the HG-Q in by USB and open Control (Test) under Black Box Digital. Mac only for now."
   }
 }
