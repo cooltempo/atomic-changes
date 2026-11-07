@@ -1,5 +1,5 @@
 {
-  "stamp": "96cf8156a34c943a",
+  "stamp": "669cd0fb60ae9ddf",
   "rows": [
     {
       "id": "deadline-pro",
@@ -143,7 +143,14 @@
         ]
       },
       "macMissing": false,
-      "windows": null,
+      "windows": {
+        "file": "Black Box Digital Control Test 0.0.5 Windows Setup (VST3 AAX App).exe",
+        "formats": [
+          "VST3",
+          "AAX",
+          "App"
+        ]
+      },
       "windowsMissing": false
     }
   ]
