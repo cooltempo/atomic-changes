@@ -1,4 +1,9 @@
 {
+  "atomic-sampler": {
+    "stage": "team",
+    "until": null,
+    "notes": "First Team build, Mac only: the app plus AU, VST3 and AAX. Load a sample, make a program, play it."
+  },
   "rodec-one": {
     "stage": "partner",
     "until": null,

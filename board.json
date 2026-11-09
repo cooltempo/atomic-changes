@@ -1,5 +1,5 @@
 {
-  "stamp": "669cd0fb60ae9ddf",
+  "stamp": "a048e414b78d0bc9",
   "rows": [
     {
       "id": "deadline-pro",
@@ -84,6 +84,20 @@
         "file": "Meters Pro 0.9.2 Windows Setup.exe",
         "formats": null
       },
+      "windowsMissing": false
+    },
+    {
+      "id": "atomic-sampler",
+      "name": "9600XT Sampler",
+      "version": "0.1.0",
+      "published": "2026-11-09T13:55:45.799294Z",
+      "test": "team",
+      "mac": {
+        "file": "9600XT Sampler 0.1.0.pkg",
+        "formats": null
+      },
+      "macMissing": false,
+      "windows": null,
       "windowsMissing": false
     },
     {
