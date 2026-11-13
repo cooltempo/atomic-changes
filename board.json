@@ -1,5 +1,5 @@
 {
-  "stamp": "ec19e4a965047d18",
+  "stamp": "cef93a956dff7afd",
   "rows": [
     {
       "id": "deadline-pro",
@@ -89,16 +89,28 @@
     {
       "id": "atomic-sampler",
       "name": "S9600XT Sampler",
-      "version": "0.1.1",
-      "published": "2026-11-09T14:59:41.4800332Z",
+      "version": "0.1.2",
+      "published": "2026-11-13T18:05:12.7830022Z",
       "test": "team",
       "mac": {
-        "file": "S9600XT Sampler 0.1.1.pkg",
-        "formats": null
+        "file": "S9600XT Sampler 0.1.2 (AU VST3 AAX App).pkg",
+        "formats": [
+          "AU",
+          "VST3",
+          "AAX",
+          "App"
+        ]
       },
       "macMissing": false,
-      "windows": null,
-      "windowsMissing": true
+      "windows": {
+        "file": "S9600XT Sampler 0.1.2 Windows Setup (VST3 AAX App).exe",
+        "formats": [
+          "VST3",
+          "AAX",
+          "App"
+        ]
+      },
+      "windowsMissing": false
     },
     {
       "id": "rodec-one",
