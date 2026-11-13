@@ -2,7 +2,7 @@
   "atomic-sampler": {
     "stage": "team",
     "until": null,
-    "notes": "First Team build, Mac only: the app plus AU, VST3 and AAX. Load a sample, make a program, play it."
+    "notes": "Early test build: expect rough edges. Mac and Windows: the app, VST3 and AAX (AU on Mac). Load a sample, make a program, play it; SLICE and SLICE EDIT are new."
   },
   "rodec-one": {
     "stage": "partner",
