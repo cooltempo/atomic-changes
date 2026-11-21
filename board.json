@@ -1,0 +1,90 @@
+{
+  "stamp": "7cedb2900562fa03",
+  "rows": [
+    {
+      "id": "deadline-pro",
+      "name": "Deadline Pro",
+      "version": "0.9.18",
+      "published": "2026-11-07T02:15:20.5591584Z",
+      "test": null,
+      "mac": {
+        "file": "Deadline Pro 0.9.18.pkg",
+        "formats": null
+      },
+      "macMissing": false,
+      "windows": {
+        "file": "Deadline Pro 0.9.18 Windows Setup.exe",
+        "formats": null
+      },
+      "windowsMissing": false
+    },
+    {
+      "id": "deadline-go",
+      "name": "Deadline Go",
+      "version": "1.1.4",
+      "published": "2026-11-02T23:49:24.3808102Z",
+      "test": null,
+      "mac": {
+        "file": "Deadline Go 1.1.4.pkg",
+        "formats": null
+      },
+      "macMissing": false,
+      "windows": {
+        "file": "Deadline Go 1.1.4 Windows Setup.exe",
+        "formats": null
+      },
+      "windowsMissing": false
+    },
+    {
+      "id": "deadline-mini",
+      "name": "Deadline Mini",
+      "version": "1.0.3",
+      "published": "2026-10-26T00:14:22.9567019Z",
+      "test": null,
+      "mac": {
+        "file": "Deadline Mini 1.0.3.pkg",
+        "formats": null
+      },
+      "macMissing": false,
+      "windows": {
+        "file": "Deadline Mini 1.0.3 Windows Setup.exe",
+        "formats": null
+      },
+      "windowsMissing": false
+    },
+    {
+      "id": "meters",
+      "name": "Meters",
+      "version": "0.9.2",
+      "published": "2026-10-26T00:14:34.7988822Z",
+      "test": null,
+      "mac": {
+        "file": "Meters 0.9.2.pkg",
+        "formats": null
+      },
+      "macMissing": false,
+      "windows": {
+        "file": "Meters 0.9.2 Windows Setup.exe",
+        "formats": null
+      },
+      "windowsMissing": false
+    },
+    {
+      "id": "meters-pro",
+      "name": "Meters Pro",
+      "version": "0.9.2",
+      "published": "2026-10-26T00:14:45.796223Z",
+      "test": null,
+      "mac": {
+        "file": "Meters Pro 0.9.2.pkg",
+        "formats": null
+      },
+      "macMissing": false,
+      "windows": {
+        "file": "Meters Pro 0.9.2 Windows Setup.exe",
+        "formats": null
+      },
+      "windowsMissing": false
+    }
+  ]
+}

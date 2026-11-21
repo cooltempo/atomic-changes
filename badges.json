@@ -1,0 +1,22 @@
+{
+  "badge-team": {
+    "label": "ATOMIC TEAM",
+    "colour": "#3ecf6e"
+  },
+  "badge-vip": {
+    "label": "VIP",
+    "colour": "#d4af37"
+  },
+  "badge-partner": {
+    "label": "PARTNER",
+    "colour": "#ff6900"
+  },
+  "badge-alpha": {
+    "label": "ALPHA",
+    "colour": "#4f8dff"
+  },
+  "badge-beta": {
+    "label": "BETA",
+    "colour": "#b07cff"
+  }
+}
